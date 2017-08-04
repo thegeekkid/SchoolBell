@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ASquare.WindowsTaskScheduler.Interface;
+
 
 namespace Scheduler
 {
@@ -24,6 +26,11 @@ namespace Scheduler
             textBox2.Text = DateTime.Now.Minute.ToString();
             comboBox1.SelectedIndex = 2;
             comboBox2.SelectedIndex = 0;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            scheduleIt();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -54,6 +61,9 @@ namespace Scheduler
             }
         }
 
-        
+        private void scheduleIt()
+        {
+            
+        }
     }
 }
