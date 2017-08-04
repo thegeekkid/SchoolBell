@@ -1,0 +1,9 @@
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.Form1.resources
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.Properties.Resources.resources
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.GenerateResource.Cache
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+C:\misc\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.pdb

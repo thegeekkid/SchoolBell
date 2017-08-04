@@ -1,0 +1,12 @@
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\bin\Debug\SchoolBell-ring.exe.config
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\bin\Debug\SchoolBell-ring.exe
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\bin\Debug\SchoolBell-ring.pdb
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell-ring.csprojResolveAssemblyReference.cache
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell_ring.Form1.resources
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell_ring.Properties.Resources.resources
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell-ring.csproj.GenerateResource.Cache
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell-ring.exe
+C:\misc\Repos\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell-ring.pdb
+C:\misc\Repos\SchoolBell\SchoolBell-ring\SchoolBell-ring\bin\Debug\SchoolBell-ring.exe.config
+C:\misc\Repos\SchoolBell\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell-ring.exe
+C:\misc\Repos\SchoolBell\SchoolBell-ring\SchoolBell-ring\obj\Debug\SchoolBell-ring.pdb
