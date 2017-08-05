@@ -21,6 +21,12 @@ namespace Scheduler
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            if (!((File.Exists(Environment.CurrentDirectory + @"\bell0.wav")) && ((File.Exists(Environment.CurrentDirectory + @"\bell1.wav"))) && ((File.Exists(Environment.CurrentDirectory + @"\bell2.wav")))))
+            {
+                this.Visible = false;
+                setup set = new setup();
+                set.ShowDialog();
+            }
             dateTimePicker1.Value = DateTime.Now;
             textBox1.Text = DateTime.Now.Hour.ToString();
             textBox2.Text = DateTime.Now.Minute.ToString();

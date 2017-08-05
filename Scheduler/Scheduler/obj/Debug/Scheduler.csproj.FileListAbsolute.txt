@@ -17,3 +17,4 @@ C:\Users\Brian\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.csprojRe
 C:\Users\Brian\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.exe
 C:\Users\Brian\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
 C:\Users\Brian\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.deleteBox.resources
+C:\Users\Brian\Repos\SchoolBell\Scheduler\Scheduler\obj\Debug\Scheduler.setup.resources
